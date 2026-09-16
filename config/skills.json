@@ -1,0 +1,89 @@
+{
+  "categories": {
+    "Programming Languages": [
+      "Python", "Java", "C", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "Dart", "MATLAB", "Perl", "Bash", "Shell"
+    ],
+    "Web Development": [
+      "HTML", "CSS", "React", "Next.js", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask", "FastAPI", "Spring Boot", "ASP.NET", ".NET", "Ruby on Rails", "Bootstrap", "Tailwind CSS", "Redux", "GraphQL", "REST API"
+    ],
+    "Machine Learning & AI": [
+      "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Large Language Models", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "OpenCV", "Hugging Face", "NLTK", "spaCy", "Generative AI", "Reinforcement Learning", "Transformers", "XGBoost", "LightGBM"
+    ],
+    "Data & Databases": [
+      "SQL", "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "Redis", "Cassandra", "Elasticsearch", "Neo4j", "Firebase", "Snowflake", "BigQuery", "Apache Spark", "Hadoop", "Tableau", "Power BI", "Data Analysis", "Data Engineering", "ETL"
+    ],
+    "Cloud & DevOps": [
+      "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes", "Git", "GitHub", "GitLab", "CI/CD", "Jenkins", "Terraform", "Ansible", "Linux", "Kubernetes", "Nginx", "Apache", "Microservices"
+    ],
+    "Software Engineering & Tools": [
+      "Agile", "Scrum", "Jira", "Postman", "Unit Testing", "Test-Driven Development", "Object-Oriented Programming", "Data Structures", "Algorithms", "System Design"
+    ]
+  },
+  "aliases": {
+    "ml": "Machine Learning",
+    "machine learning": "Machine Learning",
+    "dl": "Deep Learning",
+    "deep learning": "Deep Learning",
+    "nlp": "Natural Language Processing",
+    "natural language processing": "Natural Language Processing",
+    "cv": "Computer Vision",
+    "computer vision": "Computer Vision",
+    "genai": "Generative AI",
+    "generative ai": "Generative AI",
+    "llm": "Large Language Models",
+    "llms": "Large Language Models",
+    "large language models": "Large Language Models",
+    "sklearn": "Scikit-learn",
+    "scikit learn": "Scikit-learn",
+    "scikit-learn": "Scikit-learn",
+    "tf": "TensorFlow",
+    "tensorflow": "TensorFlow",
+    "pytorch": "PyTorch",
+    "np": "NumPy",
+    "numpy": "NumPy",
+    "pd": "Pandas",
+    "pandas": "Pandas",
+    "js": "JavaScript",
+    "javascript": "JavaScript",
+    "ts": "TypeScript",
+    "typescript": "TypeScript",
+    "py": "Python",
+    "python": "Python",
+    "postgres": "PostgreSQL",
+    "postgresql": "PostgreSQL",
+    "mongo": "MongoDB",
+    "mongodb": "MongoDB",
+    "k8s": "Kubernetes",
+    "kubernetes": "Kubernetes",
+    "gcp": "Google Cloud Platform",
+    "google cloud": "Google Cloud Platform",
+    "google cloud platform": "Google Cloud Platform",
+    "amazon web services": "AWS",
+    "aws": "AWS",
+    "ms azure": "Azure",
+    "microsoft azure": "Azure",
+    "azure": "Azure",
+    "reactjs": "React",
+    "react.js": "React",
+    "react": "React",
+    "nextjs": "Next.js",
+    "next.js": "Next.js",
+    "vuejs": "Vue.js",
+    "vue.js": "Vue.js",
+    "vue": "Vue.js",
+    "nodejs": "Node.js",
+    "node.js": "Node.js",
+    "node": "Node.js",
+    "expressjs": "Express.js",
+    "express.js": "Express.js",
+    "express": "Express.js",
+    "rest": "REST API",
+    "restful": "REST API",
+    "rest api": "REST API",
+    "restful api": "REST API",
+    "powerbi": "Power BI",
+    "power bi": "Power BI",
+    "tdd": "Test-Driven Development",
+    "oop": "Object-Oriented Programming"
+  }
+}

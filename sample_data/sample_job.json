@@ -1,0 +1,43 @@
+{
+  "status": "OK",
+  "request_id": "mock-req-001",
+  "parameters": {
+    "query": "Machine Learning Engineer jobs in Bengaluru",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
+    {
+      "job_id": "jsearch-sample-01",
+      "job_title": "Machine Learning Engineer",
+      "employer_name": "ABC Technologies",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "India",
+      "job_employment_type": "FULLTIME",
+      "job_min_salary": 90000,
+      "job_max_salary": 130000,
+      "job_salary_currency": "USD",
+      "job_salary_period": "year",
+      "job_posted_at_datetime_utc": "2026-09-09T10:00:00.000Z",
+      "job_apply_link": "https://example.com/apply/ml-engineer-sample",
+      "job_description": "We are looking for a Machine Learning Engineer to join our core AI product team in Bengaluru.\n\nRequirements:\n- Strong knowledge of Python, Machine Learning, and SQL.\n- Hands-on experience with PyTorch, TensorFlow, and Scikit-learn.\n- Familiarity with cloud technologies including AWS and containerization using Docker.\n- Bachelor's degree in Computer Science, Data Science, or a related technical field.\n- 2+ years of software development or machine learning experience preferred.\n\nResponsibilities:\n- Develop and deploy scalable machine learning models.\n- Build efficient data extraction and feature engineering pipelines.\n- Write unit tests and maintain high code quality standards."
+    },
+    {
+      "job_id": "jsearch-sample-02",
+      "job_title": "Senior Data Scientist",
+      "employer_name": "Global Analytics Partners",
+      "job_city": "Bengaluru",
+      "job_state": "Karnataka",
+      "job_country": "India",
+      "job_employment_type": "FULLTIME",
+      "job_min_salary": 110000,
+      "job_max_salary": 150000,
+      "job_salary_currency": "USD",
+      "job_salary_period": "year",
+      "job_posted_at_datetime_utc": "2026-09-08T14:30:00.000Z",
+      "job_apply_link": "https://example.com/apply/data-scientist-sample",
+      "job_description": "Seeking an experienced Senior Data Scientist with expertise in predictive modeling and natural language processing.\n\nQualifications:\n- Proficiency in Python, R, Pandas, NumPy, and SQL.\n- Experience in Deep Learning, PyTorch, and NLP architectures.\n- Master's degree or Ph.D. in Computer Science, Statistics, or Mathematics.\n- 4+ years of professional experience in data science or research.\n- Expertise in Kubernetes, Azure, and CI/CD pipelines."
+    }
+  ]
+}

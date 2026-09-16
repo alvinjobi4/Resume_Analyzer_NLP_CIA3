@@ -1,0 +1,40 @@
+John Doe
+Email: john.doe@example.com | Phone: +1-555-234-5678
+LinkedIn: linkedin.com/in/johndoe-ml | GitHub: github.com/johndoe
+Location: Bengaluru, Karnataka, India
+
+SUMMARY
+Dedicated and detail-oriented Machine Learning Engineer with 2 years of professional software development experience. Proven track record in building statistical models, developing natural language processing classification systems, and optimizing machine learning inference pipelines using Python, Scikit-learn, and SQL.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Vellore Institute of Technology, Graduated 2024
+GPA: 8.9/10
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Java, C++, SQL, JavaScript
+- Machine Learning & AI: Machine Learning, Deep Learning, Natural Language Processing, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools & Cloud: Git, GitHub, Linux, REST API, Docker
+
+WORK EXPERIENCE
+Software Engineer / ML Developer
+ABC Technologies, Bengaluru
+July 2024 - Present (Approx. 2 years software development experience)
+- Designed and trained supervised machine learning models using Scikit-learn and Pandas, improving predictive accuracy by 18%.
+- Built automated data cleaning and text preprocessing pipelines for incoming document classification.
+- Deployed REST APIs using FastAPI and connected services to PostgreSQL database clusters.
+- Collaborated with engineering teams using Git, GitHub, and Agile methodologies.
+
+PROJECTS
+1. Machine Learning Document Classifier
+- Developed an end-to-end NLP classification system using TF-IDF feature extraction and Support Vector Machines.
+- Achieved 94% precision on multi-class categorization benchmarks.
+
+2. Customer Churn Prediction Engine
+- Implemented XGBoost and Random Forest algorithms using Scikit-learn to forecast subscription retention.
+- Evaluated model performance using ROC-AUC, Precision-Recall curves, and cross-validation.
+
+CERTIFICATIONS
+- Machine Learning Specialization by Andrew Ng (Coursera)
+- Python for Data Science and Machine Learning Bootcamp
