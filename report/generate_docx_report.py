@@ -29,7 +29,7 @@ def create_report_docx(output_path="report/CIA3_Micro_Project_Report.docx"):
         # Configure Footer
         footer = section.footer
         f_p = footer.paragraphs[0]
-        f_p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        f_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         f_run = f_p.add_run("AI532P – Introduction to Natural Language Processing | CIA-3 Component 2")
         f_run.font.name = "Times New Roman"
         f_run.font.size = Pt(9)
@@ -842,8 +842,14 @@ def create_report_docx(output_path="report/CIA3_Micro_Project_Report.docx"):
 
     # Ensure output directory exists
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    doc.save(output_path)
-    print(f"Successfully generated: {output_path}")
+    try:
+        doc.save(output_path)
+        print(f"Successfully generated: {output_path}")
+    except PermissionError:
+        alt_path = output_path.replace(".docx", "_Centered.docx")
+        doc.save(alt_path)
+        print(f"Warning: {output_path} is currently locked by Word.")
+        print(f"Successfully generated centered version to: {alt_path}")
 
 if __name__ == "__main__":
     create_report_docx()

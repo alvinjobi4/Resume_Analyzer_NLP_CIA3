@@ -16,7 +16,9 @@
 **Institution:** CHRIST (Deemed to be University), Bangalore  
 **Academic Year:** 2026–2027  
 
-*AI532P – Introduction to Natural Language Processing | CIA-3 Component 2*
+<div align="center">
+<em>AI532P – Introduction to Natural Language Processing | CIA-3 Component 2</em>
+</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -573,4 +575,6 @@ OK
 - [x] Source code / Google Colab / GitHub link provided.
 
 ---
-*AI532P – Introduction to Natural Language Processing | CIA-3 Component 2*
+<div align="center">
+<em>AI532P – Introduction to Natural Language Processing | CIA-3 Component 2</em>
+</div>

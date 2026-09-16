@@ -17,6 +17,7 @@ ENV/
 # Temporary files & uploads
 temp/
 *.tmp
+~$*
 .pytest_cache/
 .coverage
 htmlcov/
